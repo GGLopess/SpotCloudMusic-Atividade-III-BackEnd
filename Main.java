@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
         gerenciador.adicionarAudio(new Musica("conversa com uma menina branca", 100, "Djonga", "Rap"));
-        gerenciador.adicionarAudio(new Musica("Welcome To The Jungle", 273, "Guns N' Roses", "Rock"));
+        gerenciador.adicionarAudio(new Musica("Welcome To The Jungle", 273, "Guns N' Roses", " Hard Rock"));
 
         boolean rodando = true;
         while (rodando) {
